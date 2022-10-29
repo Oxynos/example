@@ -1,0 +1,12 @@
+e2e
+node_modules
+dist
+.vscode
+coverage
+*.png
+*.ico
+src/assets
+
+.idea
+.husky
+.angular
